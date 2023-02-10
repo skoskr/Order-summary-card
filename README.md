@@ -22,7 +22,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/skoskr/Order-summary-card)
-- Live Site URL: [Netlify](https://your-live-site-url.com)
+- Live Site URL: [Netlify](https://amazing-daffodil-96c96b.netlify.app)
 
 ## My process
 
